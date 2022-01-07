@@ -1,6 +1,9 @@
 package org.example;
 
 public class EmployeeDetails {
+	private void m3() {
+		System.out.println("Sathya doe the work");
+	}
 	private void m2() {
 		System.out.println("m2 created by S");
 }
